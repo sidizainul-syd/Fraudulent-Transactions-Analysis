@@ -14,7 +14,7 @@ Analysis Finding Summary
 Suggestion
 
 - Dataset severely imbalance but it does replicate the real world as fraudulent transaction is harder to detect. Probably can launch investigation towards recepients of transactions that receive transactions from Fraudelent flagged account.
-- Step describe it is a real life time in hour, but not mentioning whether it is 00:00 AM or 12:00 PM. It is good to learn when the fraudulent transactions happen. It is better to provide the day of each transactions so we can learn more whether transactions were made on weekend or weekdays. 
+- Step described in data description as a real life time in hour, but not mentioning whether it is 00:00 AM or 12:00 PM. It is good to learn when the fraudulent transactions happen. It is better to provide the day of each transactions so we can learn more whether transactions were made on weekend or weekdays. 
 - Create associations of each account, to learn their relationship to each other. 
 
 Model Development
